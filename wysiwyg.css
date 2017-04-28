@@ -1,0 +1,41 @@
+#wrapper {
+	width: 80%;
+	margin: auto;
+}
+
+h1 {
+	margin-left: 45px;
+}
+
+h2 {
+	height: 55px;
+}
+
+#container {
+	display: flex;
+	text-align: center;
+}
+
+.person0, .person1, .person2 {
+	margin-left: 25px;
+	background-color: #dbe2ff;
+}
+
+.border {
+	border: 2px dotted black;
+}
+
+.person1 {
+	background-color: #fcf6bf;
+}
+
+img {
+	margin-top: 25px;
+	height: 280px;
+	width: 220px;
+}
+
+input {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
